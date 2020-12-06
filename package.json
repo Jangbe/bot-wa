@@ -1,0 +1,19 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "whatsapp-web.js": "^1.11.1"
+  }
+}
